@@ -8,7 +8,13 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 1. Download and install the APK (Winlator.apk) from [GitHub Releases](https://github.com/REF4IK/Wiinlator-Ref4ik-/releases)
 2. Launch the app and wait for the installation process to finish
+# Installation
 
+![GitHub all releases](https://img.shields.io/github/downloads/REF4IK/Wiinlator-Ref4ik-/total?style=for-the-badge&label=Total%20Downloads&color=blue)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/REF4IK/Wiinlator-Ref4ik-/latest/total?style=for-the-badge&label=Latest%20Release%20Downloads)
+
+1. Download and install the APK (Winlator_10.0.apk) from [GitHub Releases](https://github.com/REF4IK/Wiinlator-Ref4ik-/releases)
+2. Launch the app and wait for the installation process to finish
 ----
 
 [![Play on Youtube](https://img.youtube.com/vi/ETYDgKz4jBQ/3.jpg)](https://www.youtube.com/watch?v=ETYDgKz4jBQ)
