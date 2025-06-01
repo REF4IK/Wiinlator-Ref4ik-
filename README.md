@@ -1,7 +1,5 @@
-<p align="center">
-	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />
-</p>
-
+![Winlator Logo](https://github.com/REF4IK/Winlator-REF4IK/raw/main/logo.w.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=0078D7&center=true&vCenter=true&width=1000&lines=Добро+пожаловать+в+Winlator-REF4IK!;)](https://git.io/typing-svg)
 # Winlator
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
